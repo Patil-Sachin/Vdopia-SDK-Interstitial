@@ -18,7 +18,7 @@ s.resource = 'TeadsSDKResources.bundle'
 s.resources = "**/*.{txt,js}"
 s.public_header_files = "**/*.h"
 s.ios.frameworks = 'AdSupport', 'AudioToolbox', 'AVFoundation', 'CFNetwork', 'CoreBluetooth', 'CoreGraphics', 'CoreLocation', 'CoreMedia', 'CoreTelephony', 'EventKit', 'EventKitUI', 'Foundation', 'iAd', 'MapKit', 'MediaPlayer', 'MediaToolbox', 'MobileCoreServices', 'QuartzCore', 'SafariServices', 'Security', 'Social', 'SystemConfiguration', 'UIKit', 'WebKit'
-s.vendored_libraries = "liblibrary_vdopia.a"
+s.vendored_libraries = "liblibrary_vdopiaUniversal.a"
 s.vendored_frameworks = 'VDPMoatMobileAppKit.framework', 'AdColony.framework', 'AppLovinSDK.framework',  'TeadsSDK.framework'
 s.dependency 'InMobiSDK', '~> 6.0.0'
 s.dependency 'FBAudienceNetwork', '~> 4.12.0'
