@@ -12,7 +12,7 @@ LICENSE
 s.homepage     = "http://www.vdopia.com/mobile/"
 s.author       = "Team"
 s.platform     = :ios, "8.0"
-s.source       = {:git => 'https://bitbucket.org/vdopia/sdkdistribution.git',:tag => '1.3'}
+s.source       = {:git => 'https://bitbucket.org/vdopia/sdkdistribution.git',:branch => '1.3'}
 s.source_files  = "**/*.{h,m}",
 s.resource = 'TeadsSDKResources.bundle'
 s.resources = "**/*.{txt,js}"
