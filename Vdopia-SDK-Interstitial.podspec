@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
 s.name         = "Vdopia-SDK-Interstitial"
-s.version      = "1.0.0"
+s.version      = "2.0.0"
 s.summary      = "A vdopiasdk mobile advertising sdk."
 s.description  = "vdopia mobile advertising SDK gives developers a fast and convenient way to monetize their apps."
 s.license = { :type => 'MIT', :text => <<-LICENSE
